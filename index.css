@@ -1,0 +1,13 @@
+.activeSlide {
+  width: 100%;
+}
+
+.nextSlide {
+  transform: translateX(100%);
+  display: none;
+}
+
+.lastSlide {
+  transform: translateX(-100%);
+  display: none;
+}
